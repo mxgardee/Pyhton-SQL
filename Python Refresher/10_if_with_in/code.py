@@ -20,9 +20,7 @@ if user_input in ("y", "Y"):
     else:
         print("Sorry, it's wrong!")
 
-# --
 
-# We could also do a transformation instead of checking multiple options.
 
 number = 7
 user_input = input("Enter 'y' if you would like to play: ")
